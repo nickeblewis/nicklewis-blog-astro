@@ -1,10 +1,12 @@
 ---
+setup: |
+  import Layout from '../../layouts/BlogPost.astro'
+  import Cool from '../../components/Author.astro'
 title: The Tuba Man
 description: "Photos from the archives"
 alt: 'astro'
-layout: '../../layouts/BlogPost.astro'
-publishDate: 'September 26 2021'
-author: 'Nick'
+publishDate: September 26 2021
+name: Nick Lewis
 ---
 
 <img src="/tuba.jpg" alt="street performer" width="100%">
