@@ -1,11 +1,19 @@
 ---
+setup: |
+  import Layout from '../../layouts/BlogPost.astro'
+  import Cool from '../../components/Author.astro'
 title: Our new MG5 EV
 description: "We delve into the EV world for the first time"
 publishDate: 'September 28 2021'
-author: 'Nick'
+name: Nick Lewis
 alt: 'Astro'
-layout: '../../layouts/BlogPost.astro'
+value: 42
 ---
+<Cool name={frontmatter.name} href="https://twitter.com/nicklewis" client:load />
+
+This is so cool!
+
+Do variables work {frontmatter.value * 2}?
 
 # Start off here
 
