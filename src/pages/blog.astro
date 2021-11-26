@@ -13,12 +13,12 @@ interface MarkdownFrontmatter {
 // It will run during the build, but never in the browser.
 // All variables are available to use in the HTML template below.
 let title = 'Photography, Code, Tech & History';
-let description = 'Welcome to my new blog site. I am in the process of writing new content and pulling old articles across from a few older website projects. I’m a front-end developer based in Hampshire, UK. I write about the web, photography, programming, tech and other topics here and on Twitter.';
+let description = 'Welcome to my new blog site. I am in the process of writing new content and pulling old articles across from a few older website projects. I’m a front-end developer based in Hampshire, UK. I write about the web, photography, tech and other topics here and on Twitter.';
 let permalink = 'https://nicklewis.blog/';
 
 // Data Fetching: List all Markdown posts in the repo.
 
-let allPosts = await Astro.fetchContent('./posts/*.md');
+let allPosts = await Astro.fetchContent('./blog/*.md');
 allPosts = allPosts.sort((a, b) => new Date(b.publishDate).valueOf() - new Date(a.publishDate).valueOf());
 
 // Full Astro Component Syntax:
