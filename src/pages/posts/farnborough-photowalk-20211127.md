@@ -20,6 +20,8 @@ We will visit each of the buildings below from the outside and come away with ph
 
 ## Balloon Hangar
 
+<img src="/DSC00217.jpg" alt="The Balloon Hangar" width="100%">
+
 > Construction of the portable airship hangar originally began in March 1912. It is made up of 112 riveted lattice frames, each weighing half a ton, and bolted together to form the 260-foot long structure. The building  stood at Farnborough as a single structure only in 1912 and 1913. The hangar was recovered by  the Farnborough Air Sciences Trust (FAST) restored to its former glory and then re-erected by Slough Estates Group in order to form the centrepiece of the  business park created out of the refurbishment of the former Royal Aircraft Establishment site. It stands as a permanent monument commemorating the enormous history of World class aviation research and development at Farnborough.
 
 The hangar is an imposing structure, not all that easy to photograph in an imaginative way. I have seen some great photos of it over time but a lot of them follow a similar theme, even mine have been much the same. How can we capture something refreshingly different? Maybe you can? 
