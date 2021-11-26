@@ -2,7 +2,7 @@
 setup: |
     import Layout from '../../layouts/BlogPost.astro'
     import Cool from '../../components/Author.astro'
-title: Farnborough Photowalk - The Aviation Heritage
+title: Farnborough Photowalk - Aviation Heritage
 description: The first of many photo walks I am hoping to lead in the years to come will take place in Farnborough this weekend
 publishDate: November 27 2021
 name: Nick Lewis
@@ -24,7 +24,7 @@ We will visit each of the buildings below from the outside and come away with ph
 
 > Construction of the portable airship hangar originally began in March 1912. It is made up of 112 riveted lattice frames, each weighing half a ton, and bolted together to form the 260-foot long structure. The building  stood at Farnborough as a single structure only in 1912 and 1913. The hangar was recovered by  the Farnborough Air Sciences Trust (FAST) restored to its former glory and then re-erected by Slough Estates Group in order to form the centrepiece of the  business park created out of the refurbishment of the former Royal Aircraft Establishment site. It stands as a permanent monument commemorating the enormous history of World class aviation research and development at Farnborough.
 
-The hangar is an imposing structure, not all that easy to photograph in an imaginative way. I have seen some great photos of it over time but a lot of them follow a similar theme, even mine have been much the same. How can we capture something refreshingly different? Maybe you can? 
+The hangar is an imposing structure, not all that easy to photograph as it happens. I have seen some great photos of it over time but a lot of them follow a similar theme, even mine have been much the same. How can we capture something refreshingly different? Maybe you can? 
 
 ## Building Q120
 
@@ -32,11 +32,14 @@ The hangar is an imposing structure, not all that easy to photograph in an imagi
 
 > This is all that remains of the Sea Plane Tank; the building originally housed the end of a quarter mile long water tank, approximately 2 meters deep by 2 meters wide. A vestigial ‘stub’ of the tank – since filled in – can still be seen but the Business Park development has now replaced rest. The tank was once fully enclosed; accurate scale models of sea and float plane hulls were lowered from a moving test carriage above the tank in very carefully controlled experiments designed study their behaviour in varying water surface conditions, speeds and angles. Land based aircraft ditching characteristics were also extensively tested in order to assess performance and buoyance in the event of an emergency landing on water.
 
+I will talk a little bit about some of the key principles in photographic composition, such as perspective, lead-in lines and the "rule of thirds". Tools that help improve your photography a great deal.
 ## Building Q121
 
 <img src="/_DSC7890.jpg" alt="Wind tunnel" width="100%">
 
 > Construction of the building began in 1931 and was completed in 1935; at the time it was one of if not the largest wind tunnels in the World. Q121 is usually referred to as the ’24 foot wind tunnel,’ it was originally designed to create a cylinder of high quality precisely controlled air flow 24 feet in diameter. This was created by 30 foot diameter a six bladed fan, each blade made from laminated mahogany. Q121 was in operation until 1994 and is a Grade 1 listed building.
+
+Sometimes it's all about the angle and the light, that can lift an image and make it really stand out.
 
  ## Building Q134
 
