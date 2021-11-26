@@ -14,10 +14,15 @@ I would like to thank Bob Gentry for providing the descriptions for the building
 
 ## What you will learn
 
-I just wanted to quickly talk about something
+Whilst the walk isn't going to be a workshop as such I will talk about the ways in which you can photograph large buildings, to really get up close and study them from a variety of different angles. Larger buildings can be tricky to capture as a whole and photographers tends to capture photos that are more record shots than anything else. I think that is a shame, as sometimes great ideas are missed. Learn to see in a different way.
+
+We will visit each of the buildings below from the outside and come away with photos that perhaps we wouldn't have considered taking previously. 
+
 ## Balloon Hangar
 
 > Construction of the portable airship hangar originally began in March 1912. It is made up of 112 riveted lattice frames, each weighing half a ton, and bolted together to form the 260-foot long structure. The building  stood at Farnborough as a single structure only in 1912 and 1913. The hangar was recovered by  the Farnborough Air Sciences Trust (FAST) restored to its former glory and then re-erected by Slough Estates Group in order to form the centrepiece of the  business park created out of the refurbishment of the former Royal Aircraft Establishment site. It stands as a permanent monument commemorating the enormous history of World class aviation research and development at Farnborough.
+
+The hangar is an imposing structure, not all that easy to photograph in an imaginative way. I have seen some great photos of it over time but a lot of them follow a similar theme, even mine have been much the same. How can we capture something refreshingly different? Maybe you can? 
 
 ## Building Q120
 
