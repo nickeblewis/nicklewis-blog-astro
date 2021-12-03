@@ -2,10 +2,8 @@
 title: Churches Project
 heroImage: "https://res.cloudinary.com/dqpknoetx/image/upload/w_1200/v1421699526/_DSC8938_xkf0by.jpg"
 description: "Rotherwick Church and village, kicks off my epic project dedicated to churches"
-alt: 'astro'
-layout: '../../layouts/BlogPost.astro'
 publishDate: 'March 26 2021'
-author: 'Nick'
+name: Nick Lewis
 ---
 
 ![](https://res.cloudinary.com/dqpknoetx/image/upload/w_640/v1421699526/_DSC8938_xkf0by.jpg)
